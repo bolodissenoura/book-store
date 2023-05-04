@@ -4,7 +4,7 @@ export default function Success() {
   return (
     <>
       <Head>
-        <title>Create Next App</title>
+        <title>Buuk - Venda e compre e-books</title>
         <meta name="description" content="📚Book store" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
